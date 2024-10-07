@@ -36,8 +36,10 @@ A simple app that uses Flutter Method Channels to dispatch an Android `MediaStor
 
 ## Screenshots
 
-<img src="./screenshots/screen1.jpg" width="200">
-<img src="./screenshots/screen2.jpg" width="200">
-<img src="./screenshots/screen3.jpg" width="200">
-<img src="./screenshots/screen4.jpg" width="200">
-<img src="./screenshots/screen5.jpg" width="200">
+<p float="left">
+  <img src="./screenshots/screen1.jpg" width="200">
+  <img src="./screenshots/screen2.jpg" width="200">
+  <img src="./screenshots/screen3.jpg" width="200">
+  <img src="./screenshots/screen4.jpg" width="200">
+  <img src="./screenshots/screen5.jpg" width="200">
+</p>
