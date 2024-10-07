@@ -5,6 +5,7 @@ A simple app that uses Flutter Method Channels to dispatch an Android `MediaStor
 ## Relevant working files
 
 - lib/main.dart
+- android/app/src/main/kotlin/com/example/flutter_android_camera/MainActivity.kt
 - android/app/src/main/AndroidManifest.xml
 
 ```
